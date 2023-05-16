@@ -1,0 +1,125 @@
+@charset "UTF-8"; 
+body{
+    background-color: black;
+}
+h2{
+  
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size:  30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px;
+    
+    
+}
+h3{
+   
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size:  30px;
+  
+    border-radius: 15px;
+    max-width: 100px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+div{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 4px;
+    margin-left: auto;
+    margin-right: auto; 
+   
+}
+h1{
+   
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size:  30px;
+  
+    border-radius: 4px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+ul{
+    
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    width: 500px;
+  position: relative;
+  right: 140px;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+
+li{
+    color: aliceblue;
+    margin-top: 10px;
+position: relative;
+left: 260px;
+margin-left: auto;
+margin-right: auto;
+}
+main{
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    width: 750px;
+    padding:10px;
+    margin: auto;
+    box-shadow: 5px 5px 15px #6f717d39;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.maistreino{
+ 
+  
+    margin-left: auto;
+    margin-right: auto;
+}
+.tudo{
+    width: 800px;
+    border-color: azure;
+    box-shadow: 5px 5px 40px rgba(125, 89, 125, 0.933);
+    max-width: 800px;
+    min-width: 400px;
+    margin-top: 0px;
+    
+}
+.triceps{
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  width: 185px;
+  text-align: center;
+  position: relative;
+
+}
+a{
+    color: aliceblue;
+}
